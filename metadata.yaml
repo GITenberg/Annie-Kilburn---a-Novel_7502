@@ -1,0 +1,32 @@
+_repo: Annie-Kilburn---a-Novel_7502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: Annie Kilburn, a New Englander, desperately tries to save her hometown
+  from the negative effects of industrialization and eventually realizes that what
+  they truly need is justice. Annie Kilburn reflects Howells's deepening disillusionment
+  with American society.
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Working class -- Fiction'
+- GITenberg
+title: 'Annie Kilburn : a Novel'
+url: http://www.gutenberg.org/ebooks/7502
