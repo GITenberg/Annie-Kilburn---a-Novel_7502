@@ -13,7 +13,7 @@ Author: William Dean Howells
 
 Release Date: February, 2005 [EBook #7502]
 This file was first posted on May 11, 2003
-Last Updated: April 6, 2013
+[Last updated: August 10, 2014]
 
 Language: English
 
@@ -492,7 +492,7 @@ a libbutty."
 "It was all perfectly right, Mr. Bolton," said Miss Kilburn.
 
 "His wife died anyway, more than a year ago," said Bolton, as if the fact
-completed his atonement to Miss Kilburn, "_Git_ ep! I told him from,
+completed his atonement to Miss Kilburn, "_Git_ ep! I told him from
 the start that it had got to be a temporary thing, an' 't I only took him
 till he could git settled somehow. I guess he means to go to house-keepin',
 if he can git the right kind of a house-keeper; he wants an old one. If it
@@ -601,7 +601,7 @@ the outline of the well-known hills, or the pink of the familiar sunsets.
 In her rummaging about the house she pulled open a chest of drawers which
 used to stand in the room where she slept when a child. It was full of her
 own childish clothing, a little girl's linen and muslin; and she thought
-with a throe of despair that she could as well hope to get hack into these
+with a throe of despair that she could as well hope to get back into these
 outgrown garments, which the helpless piety of Mrs. Bolton had kept from
 the rag-bag, as to think of re-entering the relations of the life so long
 left off.
@@ -721,7 +721,7 @@ and whether the corpse appeared natural. But ever so much kindness goes
 with their disillusion; they are blunted, but not embittered.
 
 They ended by recalling Annie to mind, and Mrs. Putney said: "I suppose you
-haven't been to the cemetery yet? I They've got it all fixed up since you
+haven't been to the cemetery yet? They've got it all fixed up since you
 went away--drives laid out, and paths cut through, and everything. A good
 many have put up family tombs, and they've taken away the old iron fences
 round the lots, and put granite curbing. They mow the grass all the time.
@@ -881,7 +881,7 @@ not one. She was merely unmarried; she might marry any time. Now, when she
 assured herself of this, as she had done many times before, she suddenly
 wondered if she should ever marry; she wondered if she had seemed to her
 friends yesterday like a person who would never marry. Did one carry such
-a thing in one's looks? Perhaps they, idealised her; they had not seen her
+a thing in one's looks? Perhaps they idealised her; they had not seen her
 since she was twenty, and perhaps they still thought of her as a young
 girl. It now seemed to her as if she had left her youth in Rome, as in Rome
 it had seemed to her that she should find it again in Hatboro'. A pang of
@@ -963,7 +963,7 @@ books. She chose one, and Mr. Brandreth took her subscription, and wrote
 her name in the club book.
 
 "One of the reasons," he said, "why I would have preferred to come with
-Mrs. Munger is that she is so heart and soul with mo in my little scheme.
+Mrs. Munger is that she is so heart and soul with me in my little scheme.
 She could have put it before you in so much better light than I can. But
 she was called away so suddenly."
 
@@ -1175,7 +1175,7 @@ front parlour window; she did not see anybody going by who appeared to be
 in need of her; and she shrank from a more thorough exploration of the
 place. She found she had fancied necessity coming to her and taking away
 her good works, as it were, in a basket; but till Mr. Brandreth appeared
-with his scheme, nothing had applied for her help She had always hated
+with his scheme, nothing had applied for her help. She had always hated
 theatricals; they bored her; and yet the Social Union was a good object,
 and if this scheme would bring her acquainted in Hatboro' it might be
 the stepping-stone to something better, something really or more ideally
@@ -1472,7 +1472,7 @@ heard anything of the scheme?"
 He was one of those people who sit very high, and he now seemed taller and
 more impressive than when he stood.
 
-"It is certainly a-very good object," Annie resumed; and she went on to
+"It is certainly a very good object," Annie resumed; and she went on to
 explain it at second-hand from Mr. Brandreth as well as she could. The
 little girl was standing in her lap, and got between her and Mr. Peck, so
 that she had to look first around one side of her and then another to see
@@ -2028,14 +2028,14 @@ of the store was a curved plate of polished metal, with the name GERRISH
 cut into it in black letters; the sills of the wide windows were of metal,
 and bore the same legend. At the threshold a very prim, ceremonious little
 man, spare and straight, met Mrs. Munger with a ceremonious bow, and a
-solemn "How do you do, ma'am I how do you do? I hope I see you well," and
+solemn "How do you do, ma'am? how do you do? I hope I see you well," and
 he put a small dry hand into the ample clasp of Mrs. Munger's gauntlet.
 
 "Very well indeed, Mr. Gerrish. Isn't it a lovely morning? You know Miss
 Kilburn, Mr. Gerrish."
 
 He took Annie's hand into his right and covered it with his left, lifting
-his eyes to look her in the, face with an old-merchant-like cordiality.
+his eyes to look her in the face with an old-merchant-like cordiality.
 
 "Why, yes, indeed! Delighted to see her. Her father was one of my best
 friends. I may say that I owe everything that I am to Squire Kilburn; he
@@ -4466,7 +4466,7 @@ heart. Her strength failed her like that of a person suddenly relieved from
 some great physical stress or peril; but she felt that he had given her the
 truth, and she held fast by it while she went on.
 
-"If you knew, or if any one knew, how difficult it, is, what a
+"If you knew, or if any one knew, how difficult it is, what a
 responsibility, to do the least thing for others! And once it seemed so
 simple! And it seems all the more difficult, the more means you have for
 doing good. The poor people seem to help one another without doing any
@@ -5809,7 +5809,7 @@ you a cup of her coffee."
 "Oh, I will," said Lyra. She forbore any reference, even by a look, to the
 intimate little situation she had disturbed.
 
-Morrell added to Annie: "I like your plan. It 'a the best thing you could
+Morrell added to Annie: "I like your plan. It's the best thing you could
 do."
 
 She found she had been keeping his hand, and in the revulsion from wrath to
